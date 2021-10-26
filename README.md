@@ -3,9 +3,9 @@ Repository used to implement the laboratory homeworks for the Introduction to Ro
 
 ## Homework 1
 #### Task Requirements
-Use a separat potentiometer in controlling each of the color of the RGB led. The control must be done with digital electronics.
+Use a separate potentiometer in controlling each of the colors of the RGB led. The control must be done with digital electronics.
 ### Components used
-- arduino uno
+- Arduino uno
 - 1 RGB LED
 - 3 potentiometers
 - 1 breadboard
@@ -17,7 +17,7 @@ If you did everything correct you should have something like this:
 
 ![20211025_114723](https://user-images.githubusercontent.com/61494964/138664783-76d5cab5-8d5c-472f-93ed-ecb12c038a0c.jpg)
 
-Open Arduino on PC and write this [code](https://github.com/hirneagabriel/IntroductionToRobotics/blob/main/homework1.ino) and try and understand it. Make sure you initialize the digital and analog pins if you didn't use the same pins as I. Check if everything is alright then connect the arduino to the PC, and upload the code. Pray it works.
+Open Arduino on PC and write this [code](https://github.com/hirneagabriel/IntroductionToRobotics/blob/main/homework1.ino) and try and understand it. Make sure you initialize the digital and analog pins if you didn't use the same pins as I. Check if everything is alright then connect the Arduino to the PC, and upload the code. Pray it works.
 
 
 
