@@ -63,6 +63,33 @@ Open Arduino on PC and write this [code](https://github.com/hirneagabriel/Introd
 <details>
   <summary> Homework 3 </summary>
   
-  ![cat-loading](https://user-images.githubusercontent.com/61494964/137943557-d82fac86-541b-4c26-8764-5533e1fa59c1.gif)
+   #### Task Requirements
+   Building and EMF reader using an 7-segment display, a buzzer and home-made antenna.
   
+### Components used
+- Arduino uno
+- 1 7-segment display
+- 1 buzzer
+- 3 1 M ohm resistors for antenna, 1 100 ohm resistor for buzzer and 2 330 ohm resisstons for 7-segment display
+- wires
+- 9 V battery
+  
+ Picture of the setup:
+ 
+  
+  ![20211109_113656](https://user-images.githubusercontent.com/61494964/140902054-8f193a87-1a11-40d2-bc39-97b33af02b70.jpg)
+
+  The code for this setup can be found [here](https://github.com/hirneagabriel/IntroductionToRobotics/blob/main/homework3.ino)
+  
+  
+  [Here](https://www.youtube.com/watch?v=bLnMFIgPcsA) is a demo on Youtube of how things work.
+  
+  
+  </details>
+  
+  
+  <details>
+  <summary>Homework 4</summary>
+  
+  ![cat-loading](https://user-images.githubusercontent.com/61494964/137943557-d82fac86-541b-4c26-8764-5533e1fa59c1.gif)
   </details>
