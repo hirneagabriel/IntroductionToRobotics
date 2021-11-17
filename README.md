@@ -79,7 +79,7 @@ Open Arduino on PC and write this [code](https://github.com/hirneagabriel/Introd
   
   ![20211109_113656](https://user-images.githubusercontent.com/61494964/140902054-8f193a87-1a11-40d2-bc39-97b33af02b70.jpg)
 
-  The code for this setup can be found [here](https://github.com/hirneagabriel/IntroductionToRobotics/blob/main/4_digit_7-segment_display_controler.ino)
+  The code for this setup can be found [here](https://github.com/hirneagabriel/IntroductionToRobotics/blob/main/homework#3.ino)
   
   
   [Here](https://www.youtube.com/watch?v=bLnMFIgPcsA) is a demo on Youtube of how things work.
@@ -108,7 +108,7 @@ Open Arduino on PC and write this [code](https://github.com/hirneagabriel/Introd
 ![20211117_145847](https://user-images.githubusercontent.com/61494964/142208455-c0ddbce9-18dc-4fab-8475-86136db4a455.jpg)
   
   
-The code for this setup can be found [here](https://github.com/hirneagabriel/IntroductionToRobotics/blob/main/homework3.ino)
+The code for this setup can be found [here](https://github.com/hirneagabriel/IntroductionToRobotics/blob/main/4_digit_7-segment_display_controler.ino)
   
 [Here](https://youtu.be/GOP7idj_0Ow) is a demo on Youtube of how things work.
   
