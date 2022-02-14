@@ -79,7 +79,7 @@ Open Arduino on PC and write this [code](https://github.com/hirneagabriel/Introd
   
   ![20211109_113656](https://user-images.githubusercontent.com/61494964/140902054-8f193a87-1a11-40d2-bc39-97b33af02b70.jpg)
 
-  The code for this setup can be found [here](https://github.com/hirneagabriel/IntroductionToRobotics/blob/main/homework#3.ino)
+  The code for this setup can be found [here](https://github.com/hirneagabriel/IntroductionToRobotics/blob/main/homework3.ino)
   
   
   [Here](https://www.youtube.com/watch?v=bLnMFIgPcsA) is a demo on Youtube of how things work.
